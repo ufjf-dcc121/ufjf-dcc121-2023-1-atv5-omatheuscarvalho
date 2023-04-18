@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+h1, h2, h3 {
+    font-size: 18px;
+}
+p {
+    font-size: 14px;
+}
+footer {
+    margin-top: 30px;
+}
